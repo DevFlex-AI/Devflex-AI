@@ -11,11 +11,6 @@ Arcade mode: ON — Dev mode: ALWAYS ON.
 🎛️ Fun Retro Badges
 
 
-
-
-
-
-
 🧪 Tech Stack
 
 Languages
@@ -52,7 +47,7 @@ https://github.com/devflex-ai/Stirling-PDF
 📊 GitHub Retro Stats
 
 
-
+![devflex-ai's Stats](https://github-readme-stats.vercel.app/api?username=devflex-ai&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![devflex-ai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devflex-ai&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 🌀 About Me
@@ -71,7 +66,6 @@ GitHub: https://github.com/devflex-ai
 
 Demo: https://vortexaichat.netlify.app
 
-Twitter: @VortexAIHub
 
 🎉 Fun GIF Corner
 
@@ -81,4 +75,5 @@ Twitter: @VortexAIHub
 
 💀 Loser (Bugs)
 
-[](https://media.tenor.com/RvwJGzVKmAgAAAPo/streets-of-rage-retro-gaming.mp4)
+(![streets-of-rage-retro-gaming](https://github.com/user-attachments/assets/77944940-ce3c-44e0-8f14-fdba364bb536)
+
