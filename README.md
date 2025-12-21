@@ -4,7 +4,7 @@ AI Engineer • Full-Stack Builder • Retro Vibes Enthusiast
 
 👾 Retro-Pixel Banner
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devflex-ai" alt="devflex-ai"/></a> </p>
 
 Arcade mode: ON — Dev mode: ALWAYS ON.
 
