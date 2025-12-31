@@ -694,23 +694,4 @@ You promise:
 - Care
 - Iteration
 
-Software survives when it feels owned.
-
----
-
-## 🧩 Final Notes
-
-This README is long on purpose.
-
-It rewards attention.
-
-It filters readers.
-
-It reflects how you build.
-
-If someone reads this entire file, they already understand your value.
-
-And if they don’t — that’s fine.
-
-Not everything is for everyone.
-
+Software survives when it feels owned 
