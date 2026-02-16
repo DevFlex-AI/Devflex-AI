@@ -100,7 +100,7 @@ Coming Soon! 🚀 Currently building an amazing portfolio to showcase my project
 </div>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 </div>
 
 <div align="center">
