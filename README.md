@@ -1,146 +1,183 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DevFlex-AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-  <img src="https://raw.githubusercontent.com/devflex-ai/devflex-ai/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0D1117,100:00C2FF&height=220&section=header&text=DevFlex-AI&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=60&descColor=8B949E" />
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+DevFlex-AI;Full+Stack+Developer+🚀;Systems+Scaling+Explorer" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=480&lines=Building+scalable+systems+%F0%9F%94%A7;Full+Stack+%E2%86%92+Frontend+%2B+Backend+%2B+DevOps;Turning+experiments+into+insights+%F0%9F%93%8A;Open+source+contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:0077FF&height=2&section=footer" />
-</p>
+<br/>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/devflex-ai?style=flat-square&color=00C2FF&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/DevFlex-AI)
+[![Profile Views](https://komarev.com/ghpvc/?username=devflex-ai&style=flat-square&color=00C2FF&labelColor=0D1117)](https://github.com/DevFlex-AI)
+[![Email](https://img.shields.io/badge/mahriusus%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mahriusus@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
-I'm a full stack developer focused on building performant and scalable systems.  
-I enjoy exploring how real-world infrastructure behaves under extreme conditions and turning experiments into measurable insights.
+I'm a full-stack developer who cares deeply about **performance**, **architecture clarity**, and **systems that scale gracefully under pressure**. I like to work close to the metal — studying Git internals, stress-testing infrastructure, and shipping software that's built to last.
 
-- 💻 **Frontend**: JavaScript, TypeScript, React  
-- 🛠️ **Backend**: Node.js, Express, Python  
-- ⚙️ **Systems**: Git internals, automation, performance experiments  
-- 🤖 **AI & Automation**: Intelligent integrations & workflow systems  
-- ☁️ **DevOps**: GitHub Actions, cloud deployment, CI/CD  
+My workflow lives at the intersection of clean frontend engineering, robust backend design, and intelligent automation.
 
 ---
 
-## 🌟 Skills
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,vscode" />
-</p>
+<div align="center">
 
----
+**Frontend**
 
-## 📌 Featured Project: Bolt.diy (Fork & Restart)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚡ Bolt.diy — Reimagined & Scaled
+**Backend & Systems**
 
-Bolt.diy is a restarted and enhanced fork focused on improving scalability, architecture clarity, and performance optimization.
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🧠 Vision
+**Data & Infrastructure**
 
-- Clean restart with improved structure  
-- Stronger architectural decisions  
-- Modular design for maintainability  
-- Performance-focused development  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚙️ Technical Focus
+**DevOps & Tooling**
 
-- 🔁 Refactored core logic for clarity and extensibility  
-- 🧱 Modularized components for scalability  
-- 🚀 Optimized backend workflows  
-- 📦 Clean repository structure  
-- 🔒 Improved automation & deployment setup  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0D1117)
 
-### 📊 Engineering Goals
+**AI / ML**
 
-- Maintainable and extensible architecture  
-- Clear separation of concerns  
-- Measurable performance improvements  
-- Production-ready standards  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+</div>
 
-## 📈 GitHub Stats
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,go,rust,cpp,java,cs,graphql,postgres,redis,mongodb,docker,bash,git,githubactions,vscode,linux,tensorflow,pytorch&theme=dark&perline=8" />
+</div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api?username=devflex-ai&count_private=true&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&show_icons=true" />
-</p>
-
----
-
-## 📊 Languages Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api/top-langs/?username=devflex-ai&layout=compact&count_private=true&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devflex-ai&bg_color=000000&color=00FFFF&line=00FF00&point=00FFFF&area=true&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devflex-ai&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=devflex-ai&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=devflex-ai&theme=algolia&no-frame=true&row=1&column=6" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devflex-ai&theme=react-dark&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devflex-ai&theme=tokyonight" />
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,git,github,githubactions,vscode&theme=dark&perline=6" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack Timeline
+## 🔬 Featured Project — `bolt.gives`
 
-### 2024 - Present
-- React, TypeScript, Modern JavaScript  
-- Node.js, Express, Python  
-- GitHub Actions, Cloud Deployment  
-- AI integrations & automation  
+> **A clean-slate fork of bolt.diy, rebuilt with scalability and architectural clarity as first-class concerns.**
 
-### 2023 - 2024
-- HTML5, CSS3, JavaScript  
-- React fundamentals  
-- Backend development basics  
+| Aspect | What changed |
+|--------|-------------|
+| 🏗️ Architecture | Refactored core logic; modular, extensible design |
+| ⚡ Performance | Optimized backend workflows and reduced overhead |
+| 🔒 Automation | Hardened CI/CD pipelines and deployment setup |
+| 📦 Structure | Clean repo layout with clear separation of concerns |
+| 🎯 Standards | Production-ready patterns from day one |
 
-### 2022 - 2023
-- Web development foundations  
-- Core JavaScript concepts  
+The vision: not just a working fork — a **reference implementation** of how a project like this *should* be structured.
 
 ---
 
-## 💬 Ask Me About
+## 📊 GitHub Analytics
 
-- Full Stack Development  
-- Scalable system design  
-- Automation & Git workflows  
-- Open Source collaboration  
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api?username=devflex-ai&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=8B949E&icon_color=00C2FF&show_icons=true&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api/top-langs/?username=devflex-ai&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=8B949E&icon_color=00C2FF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devflex-ai&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devflex-ai&bg_color=0D1117&color=8B949E&line=00C2FF&point=00C2FF&area=true&area_color=00C2FF&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devflex-ai&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## 🗂️ Experience Timeline
 
-<p align="center">
-  <a href="https://github.com/DevFlex-AI">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mahriusus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+```
+2024 – Now  ████████████████████  Advanced Full Stack + AI Integrations
+            React · TypeScript · Node.js · GitHub Actions · Cloud
+
+2023 – 2024 ████████████          Frontend Depth + Backend Foundations  
+            HTML · CSS · React · REST APIs · Express
+
+2022 – 2023 ████████              Core Engineering Fundamentals
+            JavaScript · Git · Web Development Basics
+```
+
+---
+
+## 💬 Let's Talk About
+
+- 🧩 **Architecture** — designing systems that survive real-world load
+- 🔁 **Automation** — Git workflows, CI/CD, and toolchain design
+- ⚡ **Performance** — profiling, optimization, and measurable results
+- 🤝 **Open Source** — collaboration, code review, and sustainable projects
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/DevFlex--AI-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevFlex-AI)
+[![Email](https://img.shields.io/badge/Send%20a%20message-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mahriusus@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <p><strong>Built with focus, curiosity, and constant iteration.</strong></p>
+
+<img src="https://raw.githubusercontent.com/devflex-ai/devflex-ai/output/github-contribution-grid-snake-dark.svg" />
+
+<br/>
+
+<sub>Built with focus, curiosity, and constant iteration.</sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0A0A0A&height=120&section=footer" />
