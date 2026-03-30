@@ -24,9 +24,9 @@
 
 ## `$ whoami`
 
-I'm a full-stack developer who cares deeply about **performance**, **architecture clarity**, and **systems that scale gracefully under pressure**. I like to work close to the metal — studying Git internals, stress-testing infrastructure, and shipping software that's built to last.
+I'm a full-stack developer who loves building finding bugs and then sometime when i feel like it troll vibe coders. I feel proud of myself and who i became since i started coding 2-4 years ago. I only publish repos i gonna need later so in my gihtub repos aren't all my project infact there onnly about 7% of my true project the rest is somewhere hidden so just so you know if my repos aren't impressive.
 
-My workflow lives at the intersection of clean frontend engineering, robust backend design, and intelligent automation.
+My life lives at the intersection of clean frontend engineering, robust backend design, and intelligent automation.
 
 ---
 
@@ -50,10 +50,7 @@ My workflow lives at the intersection of clean frontend engineering, robust back
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logo
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Data & Infrastructure**
@@ -100,6 +97,7 @@ My workflow lives at the intersection of clean frontend engineering, robust back
 | 🔒 Automation | Hardened CI/CD pipelines and deployment setup |
 | 📦 Structure | Clean repo layout with clear separation of concerns |
 | 🎯 Standards | Production-ready patterns from day one |
+
 
 The vision: not just a working fork — a **reference implementation** of how a project like this *should* be structured.
 
