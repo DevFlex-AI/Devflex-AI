@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0D1117,100:00C2FF&height=220&section=header&text=DevFlex-AI&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=60&descColor=8B949E" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0D1117,100:00C2FF&height=220&section=header&text=DevFlex-AI&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descAlignY=60&descColor=8B949E" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=480&lines=Building+scalable+systems+%F0%9F%94%A7;Full+Stack+%E2%86%92+Frontend+%2B+Backend+%2B+DevOps;Turning+experiments+into+insights+%F0%9F%93%8A;Open+source+contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=520&lines=TypeScript+%2B+Node.js+%2B+Go+day+to+day;Contributing+to+bolt.gives+%F0%9F%94%A7;File+locking%2C+CI%2FCD%2C+and+agent+systems;7%25+public+%E2%80%94+the+rest+is+private+for+a+reason" alt="Typing SVG" />
 
 </div>
 
@@ -24,9 +24,9 @@
 
 ## `$ whoami`
 
-I'm a full-stack developer who loves building finding bugs and then sometime when i feel like it troll vibe coders. I feel proud of myself and who i became since i started coding 2-4 years ago. I only publish repos i gonna need later so in my gihtub repos aren't all my project infact there onnly about 7% of my true project the rest is somewhere hidden so just so you know if my repos aren't impressive.
+Full-stack dev, started 2–4 years ago and honestly proud of where I landed. I hunt bugs for fun, and yeah, I troll vibe coders sometimes — someone has to. Currently one of the active contributors on [bolt.gives](https://github.com/embire2/bolt.gives), an open-source collaborative AI coding workspace. I shipped the persistent file and folder locking system (chat-scoped, localStorage-backed, recursive folder propagation, full AI write prevention), helped harden CI/CD pipelines, and push changes through [my fork](https://github.com/devflex-ai/bolt.gives). My public repos are maybe 7% of what I actually build — the rest stays offline until I need it. So if my GitHub looks light, now you know why.
 
-My life lives at the intersection of clean frontend engineering, robust backend design, and intelligent automation.
+My work lives at the intersection of clean frontend engineering, robust backend design, and intelligent automation.
 
 ---
 
@@ -50,7 +50,7 @@ My life lives at the intersection of clean frontend engineering, robust backend 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logo
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Data & Infrastructure**
@@ -76,30 +76,24 @@ My life lives at the intersection of clean frontend engineering, robust backend 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,go,rust,cpp,java,cs,graphql,postgres,redis,mongodb,docker,bash,git,githubactions,vscode,linux,tensorflow,pytorch&theme=dark&perline=8" />
-</div>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,git,github,githubactions,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,go,rust,graphql,postgres,redis,mongodb,docker,bash,git,githubactions,vscode,linux,tensorflow,pytorch&theme=dark&perline=8" />
 </div>
 
 ---
 
-## 🔬 Featured Project — `bolt.gives`
+## 🔬 Active Contribution — `bolt.gives`
 
-> **A clean-slate fork of bolt.diy, rebuilt with scalability and architectural clarity as first-class concerns.**
+> **Open-source collaborative AI coding workspace. I contribute directly to the codebase — not just stars and forks.**
 
-| Aspect | What changed |
-|--------|-------------|
-| 🏗️ Architecture | Refactored core logic; modular, extensible design |
-| ⚡ Performance | Optimized backend workflows and reduced overhead |
-| 🔒 Automation | Hardened CI/CD pipelines and deployment setup |
-| 📦 Structure | Clean repo layout with clear separation of concerns |
-| 🎯 Standards | Production-ready patterns from day one |
+| What I shipped | Details |
+|----------------|---------|
+| 🔒 **File & Folder Locking** | Built the entire persistence layer — `localStorage`-backed, chat-scoped so locks don't bleed between projects, recursive folder lock propagation, full AI write prevention |
+| 🎨 **Lock UI** | `LockAlert` component, lock icons in the file tree, context menu for folder-level lock/unlock, editor tooltips on locked files |
+| 🏗️ **Architecture** | Modular store design across `files.ts`, `editor.ts`, `workbench.ts` with clean separation and no circular deps |
+| 🔁 **CI/CD** | Hardened pipelines and deployment setup, conventional commits, validation gates (`typecheck` + `lint` + `test`) |
+| 🛡️ **Reliability** | Regression tests alongside changes, no silent failures — if it breaks it should say so |
 
-
-The vision: not just a working fork — a **reference implementation** of how a project like this *should* be structured.
+The goal isn't just shipping features — it's making sure the codebase is something you'd actually want to work in.
 
 ---
 
@@ -137,7 +131,7 @@ The vision: not just a working fork — a **reference implementation** of how a 
 
 ```
 2024 – Now  ████████████████████  Advanced Full Stack + AI Integrations
-            React · TypeScript · Node.js · GitHub Actions · Cloud
+            React · TypeScript · Node.js · GitHub Actions · bolt.gives
 
 2023 – 2024 ████████████          Frontend Depth + Backend Foundations  
             HTML · CSS · React · REST APIs · Express
@@ -148,12 +142,13 @@ The vision: not just a working fork — a **reference implementation** of how a 
 
 ---
 
-## 💬 Let's Talk About
+## 💬 What I actually work on
 
-- 🧩 **Architecture** — designing systems that survive real-world load
-- 🔁 **Automation** — Git workflows, CI/CD, and toolchain design
-- ⚡ **Performance** — profiling, optimization, and measurable results
-- 🤝 **Open Source** — collaboration, code review, and sustainable projects
+- 🔒 **State & persistence** — building things that survive page refreshes, concurrent edits, and edge cases
+- 🧩 **System design** — clean store architecture, no circular deps, real separation of concerns
+- 🔁 **CI/CD and automation** — pipelines that catch problems before they reach production
+- 🐛 **Bug hunting** — finding the issue three layers deeper than where it surfaces
+- 🤝 **Open source** — reading codebases carefully before touching anything
 
 ---
 
