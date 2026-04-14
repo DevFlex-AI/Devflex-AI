@@ -168,7 +168,7 @@ Right now I'm all-in on **AI tooling infrastructure** — a CLI agent, a develop
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/DevFlex--AI-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevFlex-AI)
-[![Email](https://img.shields.io/badge/Get%20in%20touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mahriusus@gmail.com)
+
 
 <br/>
 
