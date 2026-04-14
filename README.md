@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0D1117,100:00C2FF&height=220&section=header&text=DevFlex-AI&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descAlignY=60&descColor=8B949E" />
+<img src="./assets/banner.svg" width="100%" alt="DevFlex-AI" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=520&lines=TypeScript+%2B+Node.js+%2B+Go+day+to+day;Contributing+to+bolt.gives+%F0%9F%94%A7;File+locking%2C+CI%2FCD%2C+and+agent+systems;7%25+public+%E2%80%94+the+rest+is+private+for+a+reason" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=560&lines=TypeScript+%2B+Rust+%2B+Python+in+production;Building+rift.sh+%E2%80%94+a+CLI+agent+for+real+devs;Designing+an+IDE+from+the+ground+up;7%25+public+%E2%80%94+the+rest+isn't+ready+for+you+yet" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -24,76 +22,53 @@
 
 ## `$ whoami`
 
-Full-stack dev, started 2–4 years ago and honestly proud of where I landed. I hunt bugs for fun, and yeah, I troll vibe coders sometimes — someone has to. Currently one of the active contributors on [bolt.gives](https://github.com/embire2/bolt.gives), an open-source collaborative AI coding workspace. I shipped the persistent file and folder locking system (chat-scoped, localStorage-backed, recursive folder propagation, full AI write prevention), helped harden CI/CD pipelines, and push changes through [my fork](https://github.com/devflex-ai/bolt.gives). My public repos are maybe 7% of what I actually build — the rest stays offline until I need it. So if my GitHub looks light, now you know why.
+Full-stack dev, 2–4 years in, obsessed with building things that actually work under pressure. I write TypeScript and Rust when correctness matters, Python when I need to move fast against a model, and I know the difference between the two situations. Most of what I build stays offline — the 7% on GitHub is the stuff I decided the world could handle.
 
-My work lives at the intersection of clean frontend engineering, robust backend design, and intelligent automation.
+Right now I'm deep in **AI tooling infrastructure**: a CLI agent, a developer IDE, and an AI chat platform — all built with the same philosophy: local-first, no fluff, built to last.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ What I Actually Use
 
 <div align="center">
 
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Systems**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-**Data & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**DevOps & Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0D1117)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,go,rust,graphql,postgres,redis,mongodb,docker,bash,git,githubactions,vscode,linux,tensorflow,pytorch&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,python,react,nextjs,nodejs,pytorch,postgres,docker,githubactions&theme=dark&perline=10" />
 </div>
 
 ---
 
-## 🔬 Active Contribution — `bolt.gives`
+## 🚧 What I'm Building
 
-> **Open-source collaborative AI coding workspace. I contribute directly to the codebase — not just stars and forks.**
+### [`rift.sh`](https://github.com/devflex-ai) — CLI Agent for Local AI Workflows
+> A terminal-native AI agent built for developers who don't want their code leaving the machine. Privacy-first, offline-capable, and designed to fit into how engineers actually work — not how demos pretend they do.
 
-| What I shipped | Details |
-|----------------|---------|
-| 🔒 **File & Folder Locking** | Built the entire persistence layer — `localStorage`-backed, chat-scoped so locks don't bleed between projects, recursive folder lock propagation, full AI write prevention |
-| 🎨 **Lock UI** | `LockAlert` component, lock icons in the file tree, context menu for folder-level lock/unlock, editor tooltips on locked files |
-| 🏗️ **Architecture** | Modular store design across `files.ts`, `editor.ts`, `workbench.ts` with clean separation and no circular deps |
-| 🔁 **CI/CD** | Hardened pipelines and deployment setup, conventional commits, validation gates (`typecheck` + `lint` + `test`) |
-| 🛡️ **Reliability** | Regression tests alongside changes, no silent failures — if it breaks it should say so |
+- Rift Coder: structured agentic loop with tool-use, context management, and real file system access
+- Custom ASCII identity system, 300+ themed loading states, full TypeScript core
+- Built to eventually be the backbone of a larger local-AI ecosystem
 
-The goal isn't just shipping features — it's making sure the codebase is something you'd actually want to work in.
+---
+
+### `[IDE]` — In Development
+> A developer IDE built from scratch. Not a theme, not a fork — a ground-up rethink of what a dev environment looks like when you design it around AI-native workflows without sacrificing raw speed or editor control.
+
+---
+
+### `[AI Platform]` — In Development
+> A full AI chat and workflow platform. Multi-model support, clean UX, and enough depth under the hood that it doesn't feel like a wrapper. Still private — ships when it's right.
 
 ---
 
@@ -119,36 +94,30 @@ The goal isn't just shipping features — it's making sure the codebase is somet
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devflex-ai&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-</div>
-
 ---
 
-## 🗂️ Experience Timeline
+## 🗂️ Timeline
 
 ```
-2024 – Now  ████████████████████  Advanced Full Stack + AI Integrations
-            React · TypeScript · Node.js · GitHub Actions · bolt.gives
+2024 – Now  ████████████████████  AI Tooling + Systems Engineering
+            rift.sh · IDE R&D · AI Platform · TypeScript · Rust · PyTorch
 
-2023 – 2024 ████████████          Frontend Depth + Backend Foundations  
-            HTML · CSS · React · REST APIs · Express
+2023 – 2024 ████████████          Full-Stack Depth + Backend Architecture
+            React · Next.js · Node.js · PostgreSQL · Docker · CI/CD
 
-2022 – 2023 ████████              Core Engineering Fundamentals
-            JavaScript · Git · Web Development Basics
+2022 – 2023 ████████              Engineering Foundations
+            JavaScript · Git · Systems Thinking · Web Fundamentals
 ```
 
 ---
 
-## 💬 What I actually work on
+## 💬 How I work
 
-- 🔒 **State & persistence** — building things that survive page refreshes, concurrent edits, and edge cases
-- 🧩 **System design** — clean store architecture, no circular deps, real separation of concerns
-- 🔁 **CI/CD and automation** — pipelines that catch problems before they reach production
-- 🐛 **Bug hunting** — finding the issue three layers deeper than where it surfaces
-- 🤝 **Open source** — reading codebases carefully before touching anything
+- **Correctness over speed** — if the abstraction is wrong, no amount of fast iteration fixes it
+- **Local-first by default** — cloud is a deployment target, not a dependency
+- **Read before you touch** — I spend time in a codebase before writing a single line
+- **Ship when it's done** — not when the demo looks good
+- **Debug at the root** — the error three layers up is never the real problem
 
 ---
 
@@ -157,7 +126,6 @@ The goal isn't just shipping features — it's making sure the codebase is somet
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/DevFlex--AI-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevFlex-AI)
-[![Email](https://img.shields.io/badge/Send%20a%20message-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mahriusus@gmail.com)
 
 </div>
 
@@ -169,8 +137,8 @@ The goal isn't just shipping features — it's making sure the codebase is somet
 
 <br/>
 
-<sub>Built with focus, curiosity, and constant iteration.</sub>
+<sub>Building the tools I wish existed. Shipping when they're ready.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0A0A0A&height=120&section=footer" />
+<img src="./assets/banner.svg" width="100%" alt="" style="transform:scaleY(-1);opacity:0.3"/>
