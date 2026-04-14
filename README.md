@@ -1,13 +1,9 @@
 <div align="center">
-
 <img src="./assets/banner.svg" width="100%" alt="DevFlex-AI" />
-
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=560&lines=TypeScript+%2B+Rust+%2B+Python+in+production;Building+rift.sh+%E2%80%94+a+CLI+agent+for+real+devs;Designing+an+IDE+from+the+ground+up;7%25+public+%E2%80%94+the+rest+isn't+ready+for+you+yet" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=580&lines=TypeScript+%2B+Rust+%2B+Python+in+production;Building+rift.sh+%E2%80%94+CLI+agent+for+real+devs;Designing+an+IDE+from+the+ground+up;7%25+public+%E2%80%94+the+rest+isn't+ready+for+you+yet" />
 </div>
 
 <div align="center">
@@ -18,127 +14,164 @@
 
 </div>
 
----
-
-## `$ whoami`
-
-Full-stack dev, 2–4 years in, obsessed with building things that actually work under pressure. I write TypeScript and Rust when correctness matters, Python when I need to move fast against a model, and I know the difference between the two situations. Most of what I build stays offline — the 7% on GitHub is the stuff I decided the world could handle.
-
-Right now I'm deep in **AI tooling infrastructure**: a CLI agent, a developer IDE, and an AI chat platform — all built with the same philosophy: local-first, no fluff, built to last.
-
----
-
-## ⚙️ What I Actually Use
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,rust,python,react,nextjs,nodejs,pytorch,postgres,docker,githubactions&theme=dark&perline=10" />
-</div>
-
----
-
-## 🚧 What I'm Building
-
-### [`rift.sh`](https://github.com/devflex-ai) — CLI Agent for Local AI Workflows
-> A terminal-native AI agent built for developers who don't want their code leaving the machine. Privacy-first, offline-capable, and designed to fit into how engineers actually work — not how demos pretend they do.
-
-- Rift Coder: structured agentic loop with tool-use, context management, and real file system access
-- Custom ASCII identity system, 300+ themed loading states, full TypeScript core
-- Built to eventually be the backbone of a larger local-AI ecosystem
-
----
-
-### `[IDE]` — In Development
-> A developer IDE built from scratch. Not a theme, not a fork — a ground-up rethink of what a dev environment looks like when you design it around AI-native workflows without sacrificing raw speed or editor control.
-
----
-
-### `[AI Platform]` — In Development
-> A full AI chat and workflow platform. Multi-model support, clean UX, and enough depth under the hood that it doesn't feel like a wrapper. Still private — ships when it's right.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api?username=devflex-ai&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=8B949E&icon_color=00C2FF&show_icons=true&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api/top-langs/?username=devflex-ai&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=8B949E&icon_color=00C2FF" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devflex-ai&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devflex-ai&bg_color=0D1117&color=8B949E&line=00C2FF&point=00C2FF&area=true&area_color=00C2FF&hide_border=true" />
-
-</div>
-
----
-
-## 🗂️ Timeline
+<br/>
 
 ```
-2024 – Now  ████████████████████  AI Tooling + Systems Engineering
-            rift.sh · IDE R&D · AI Platform · TypeScript · Rust · PyTorch
+╔══════════════════════════════════════════════════════════════╗
+║  $ whoami                                                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-2023 – 2024 ████████████          Full-Stack Depth + Backend Architecture
+Full-stack dev, 2–4 years deep. I write **TypeScript** and **Rust** when correctness matters, **Python** when I need to move fast against a model — and I know the difference between the two situations. Most of what I build stays offline. The 7% on GitHub is the stuff I decided the world could handle.
+
+Right now I'm all-in on **AI tooling infrastructure** — a CLI agent, a developer IDE, and an AI chat platform. Same philosophy across all three: local-first, no fluff, built to actually last.
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ cat stack.txt                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/><sub><b>TypeScript</b></sub><br/><sub>primary</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="40"/><br/><sub><b>Rust</b></sub><br/><sub>systems</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/><br/><sub><b>Python</b></sub><br/><sub>AI / ML</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/><br/><sub><b>React</b></sub><br/><sub>frontend</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40"/><br/><sub><b>Next.js</b></sub><br/><sub>fullstack</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40"/><br/><sub><b>PyTorch</b></sub><br/><sub>models</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/><br/><sub><b>Docker</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40"/><br/><sub><b>GH Actions</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/><br/><sub><b>Linux</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/><sub><b>Git</b></sub></td>
+</tr>
+</table>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ ls ./building                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<details open>
+<summary><b>🔵 &nbsp;rift.sh &nbsp;—&nbsp; CLI Agent &nbsp;<code>[ ACTIVE ]</code></b></summary>
+<br/>
+
+> Terminal-native AI agent for developers who don't want their code leaving the machine. Privacy-first, offline-capable, designed around how engineers actually work — not how demos pretend they do.
+
+- Agentic loop with tool-use, context management, and real filesystem access
+- Custom ASCII identity system, 300+ themed loading states, full TypeScript core
+- Backbone of a larger local-AI ecosystem
+
+</details>
+
+<details open>
+<summary><b>🟣 &nbsp;IDE &nbsp;—&nbsp; Developer Environment &nbsp;<code>[ IN DEV ]</code></b></summary>
+<br/>
+
+> A ground-up IDE built around AI-native workflows without trading away raw speed or editor control. Not a theme. Not an extension. A rethink.
+
+</details>
+
+<details open>
+<summary><b>🟢 &nbsp;AI Platform &nbsp;—&nbsp; Chat + Workflow Engine &nbsp;<code>[ IN DEV ]</code></b></summary>
+<br/>
+
+> Multi-model AI platform with enough depth under the hood that it doesn't feel like a wrapper. Ships when it's right.
+
+</details>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ git log --oneline --graph                                 ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+```
+2025 – Now  ██████████████████████████████  AI Production Tooling
+            rift.sh org · IDE R&D · AI Platform · TypeScript · Rust · PyTorch
+
+2024 – 2025 ████████████████████            AI Tooling + Systems Engineering
+            AI APIs · agent systems · local inference · full-stack depth
+
+2023 – 2024 █████████████                   Full-Stack + Backend Architecture
             React · Next.js · Node.js · PostgreSQL · Docker · CI/CD
 
-2022 – 2023 ████████              Engineering Foundations
+2022 – 2023 ████████                        Engineering Foundations
             JavaScript · Git · Systems Thinking · Web Fundamentals
 ```
 
----
+<br/>
 
-## 💬 How I work
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ cat principles.md                                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- **Correctness over speed** — if the abstraction is wrong, no amount of fast iteration fixes it
-- **Local-first by default** — cloud is a deployment target, not a dependency
-- **Read before you touch** — I spend time in a codebase before writing a single line
-- **Ship when it's done** — not when the demo looks good
-- **Debug at the root** — the error three layers up is never the real problem
+| # | Principle | Why |
+|---|-----------|-----|
+| `01` | **Correctness over speed** | Wrong abstractions don't iterate out |
+| `02` | **Local-first by default** | Cloud is a deployment target, not a dependency |
+| `03` | **Read before you touch** | Time in a codebase before a single line gets written |
+| `04` | **Ship when it's done** | Not when the demo looks good |
+| `05` | **Debug at the root** | The error three layers up is never the real problem |
 
----
+<br/>
 
-## 🤝 Connect
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ ./analytics.sh                                            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api?username=devflex-ai&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=8B949E&icon_color=00C2FF&show_icons=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="155" src="https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api/top-langs/?username=devflex-ai&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=8B949E&icon_color=00C2FF" />
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=devflex-ai&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devflex-ai&bg_color=0D1117&color=8B949E&line=00C2FF&point=00C2FF&area=true&area_color=00C2FF&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devflex-ai/devflex-ai/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ ./connect.sh                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/DevFlex--AI-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevFlex-AI)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devflex-ai/devflex-ai/output/github-contribution-grid-snake-dark.svg" />
+[![Email](https://img.shields.io/badge/Get%20in%20touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mahriusus@gmail.com)
 
 <br/>
 
-<sub>Building the tools I wish existed. Shipping when they're ready.</sub>
+<sub>Building the tools I wish existed. &nbsp;|&nbsp; Shipping when they're ready.</sub>
 
 </div>
-
-<img src="./assets/banner.svg" width="100%" alt="" style="transform:scaleY(-1);opacity:0.3"/>
