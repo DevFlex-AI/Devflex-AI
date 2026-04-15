@@ -22,7 +22,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-Full-stack dev, 2–4 years deep. I write **TypeScript** and **Rust** when correctness matters, **Python** when I need to move fast against a model — and I know the difference between the two situations. Most of what I build stays offline. The 7% on GitHub is the stuff I decided the world could handle.
+Full-stack dev, 2–4 years deep. I write **TypeScript** and **Rust** when correctness matters, **Python** when I need to move fast against a model — and I know the difference between the two situations. Most of what I build stays offline. The 20% on GitHub is the stuff I decided that is stuff that i think aren't that important to me in the long term
 
 Right now I'm all-in on **AI tooling infrastructure** — a CLI agent, a developer IDE, and an AI chat platform. Same philosophy across all three: local-first, no fluff, built to actually last.
 
